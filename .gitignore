@@ -10,7 +10,6 @@
 # Precompiled Headers
 *.gch
 *.pch
-*.pdb
 
 # Compiled Dynamic libraries
 *.so
@@ -30,17 +29,4 @@
 # Executables
 *.out
 *.app
-*.suo
-*.json
-*.v2
-*.vsidx
-*.cache
-*.cs
-*.props
-*.targets
-*.txt
-*.csproj
-*.GeneratedMSBuildEditorConfig
-*.editorconfig
-*.BuildWithSkipAnalyzers
 
